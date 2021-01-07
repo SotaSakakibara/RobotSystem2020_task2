@@ -43,7 +43,7 @@ $ rosrun web_video_server web_video_server
 ```
 ・端末3
 ```
-$ rosrun mypkg monochrome.py
+$ rosrun RobotSystem2020_task2 monochrome.py
 ```
 
 ## 確認方法
