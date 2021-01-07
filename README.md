@@ -8,13 +8,13 @@
 YouTube:https://youtu.be/G-7kBRANYp0
 
 ## 動作環境
-・OS : Ubuntu 20.04
-・ROS noetic
-・Python 3
+・OS : Ubuntu 20.04<br>
+・ROS noetic<br>
+・Python 3<br>
 
 ## 使用機器
-・Raspberry Pi 4 Model B
-・webカメラ
+・Raspberry Pi 4 Model B<br>
+・webカメラ<br>
 
 ## インストール方法
 ・ROS のインストール
@@ -59,7 +59,7 @@ Raspberry Pi 4のIPアドレス:8080
 ## ライセンス
 BSD 2-Clause License
 
-##参考文献・参考サイト
-[1] [ロボットシステム学第10回(ROS)](https://ryuichiueda.github.io/robosys2020/lesson10_ros.html)
-[2] [ROSで画像処理ができるようになるまで[python編]](https://qiita.com/wakaba130/items/d3a041164c316a9e7a97)
-[3] [ROSで画像処理ができ量になるまで[python編]](https://qiita.com/wakaba130/items/d3a041164c316a9e7a97#%E5%8F%82%E8%80%83%E3%82%B5%E3%82%A4%E3%83%88)
+## 参考文献・参考サイト
+[1] [ロボットシステム学第10回(ROS)](https://ryuichiueda.github.io/robosys2020/lesson10_ros.html)<br>
+[2] [ROSで画像処理ができるようになるまで[python編]](https://qiita.com/wakaba130/items/d3a041164c316a9e7a97)<br>
+[3] [ROSで画像処理ができ量になるまで[python編]](https://qiita.com/wakaba130/items/d3a041164c316a9e7a97#%E5%8F%82%E8%80%83%E3%82%B5%E3%82%A4%E3%83%88)<br>
