@@ -61,5 +61,5 @@ BSD 2-Clause License
 
 ## 参考文献・参考サイト
 [1] [ロボットシステム学第10回(ROS)](https://ryuichiueda.github.io/robosys2020/lesson10_ros.html)<br>
-[2] [ROSで画像処理ができるようになるまで[python編]](https://qiita.com/wakaba130/items/d3a041164c316a9e7a97)<br>
-[3] [ROSで画像処理ができ量になるまで[python編]](https://qiita.com/wakaba130/items/d3a041164c316a9e7a97#%E5%8F%82%E8%80%83%E3%82%B5%E3%82%A4%E3%83%88)<br>
+[2] [ROSで画像処理ができるようにになるまで[python編]](https://qiita.com/wakaba130/items/d3a041164c316a9e7a97)<br>
+[3] [Industrial Training OpenCv 画像処理(Python)](https://industrial-training-jp.readthedocs.io/ja/latest/_source/session5_JP/OpenCV-in-Python_JP.html)<br>
