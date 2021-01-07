@@ -55,3 +55,11 @@ Raspberry Pi 4のIPアドレス:8080
 
 ・すると、以下の画像の画面が表示されるので、image_rawを選択すればカラー映像、image_monochromeを選択すればモノクロ映像になります。
 ![モノクロ鏡餅解説](https://user-images.githubusercontent.com/51734722/103847406-7d9a6200-50e3-11eb-93e3-616ed76fda58.jpg)
+
+## ライセンス
+BSD 2-Clause License
+
+##参考文献・参考サイト
+[1] [ロボットシステム学第10回(ROS)](https://ryuichiueda.github.io/robosys2020/lesson10_ros.html)
+[2] [ROSで画像処理ができるようになるまで[python編]](https://qiita.com/wakaba130/items/d3a041164c316a9e7a97)
+[3] [ROSで画像処理ができ量になるまで[python編]](https://qiita.com/wakaba130/items/d3a041164c316a9e7a97#%E5%8F%82%E8%80%83%E3%82%B5%E3%82%A4%E3%83%88)
